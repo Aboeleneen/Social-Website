@@ -1,0 +1,76 @@
+/* Start navbar */
+
+ .navbar{
+    background-color: #3a2279;
+    color: white;
+   }
+   .navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .navbar-default .navbar-nav>li>a:hover{
+    color: #fff;
+  }
+  .navbar-default .navbar-nav>li:hover{
+           background:  #22094c;
+  }
+
+
+
+/* End navbar */
+
+
+/* Start Home Page */
+.test{
+	background: blue;
+}
+
+
+.ads{
+	
+	height: 500px;
+}
+
+.panel-default .panel-heading{
+	height: 45px;
+	background-color: #3a2279;
+
+}
+.panel-default .panel-heading p {
+	color: #fff;
+	font-weight: bold;
+	font-size: 15px;
+   text-align: center;
+}
+
+
+/* End Home Page */
+
+
+/* Start Profile */
+
+
+.info li:nth-child(odd) {
+ background-color: #eee;
+}
+.info li {
+	padding: 10px;
+}
+.info li span {
+	width: 100px;
+	display: inline-block;
+}
+.upload-avatar {
+	background-color: red;
+	text-decoration: none;
+}
+/* End Profile */
+
+
+/* Start Signup */
+
+/* end signup */
+
+
+\
